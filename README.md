@@ -7,7 +7,7 @@
 ## Install SonarQube
 - https://github.com/awanmbandi/eagles-batch-devops-projects/blob/maven-nexus-sonarqube-jenkins-install/sonarqube-install.sh
 
-## Configure Nexus Repository 
+## Configure Nexus Repository ##
 
 Series of tutorial code snippets for use
 #Maven publish tutorial steps
